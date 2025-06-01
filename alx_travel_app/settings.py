@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import os
 import environ
 from pathlib import Path

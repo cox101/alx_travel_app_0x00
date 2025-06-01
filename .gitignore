@@ -1,0 +1,19 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual environment
+myenv/
+
+# Django stuff:
+*.log
+*.sqlite3
+db.sqlite3
+
+# Environment variables
+.env
+./alx_travel_app/.env
+
+# IDEs and text editors
+.vscode/
+.idea/
